@@ -86,7 +86,7 @@ cpanel-login-audit/
 ## ▶️ Usage
 
 ```bash
-python3 cpanel_audit.py
+python3 cpanel-login-audit.py
 ```
 
 Only use test accounts and systems that you own or have explicit authorization to assess. Do not use third-party or leaked credentials.

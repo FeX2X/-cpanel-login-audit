@@ -109,7 +109,7 @@ The developer assumes no responsibility for misuse of this project.
 
 ## 📜 License
 
-MIT License
+XXX License
 
 ---
 

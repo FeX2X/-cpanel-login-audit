@@ -72,17 +72,6 @@ THREADS = 200
 TIMEOUT = 15
 ```
 
-## 📂 Project Structure
-
-```text
-cpanel-login-audit/
-│
-├── 🐍 cpanel_audit.py
-├── 📄 cpanels.txt
-├── 📁 results/
-└── 📖 README.md
-```
-
 ## ▶️ Usage
 
 ```bash

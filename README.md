@@ -55,7 +55,7 @@ Built with Python and concurrent processing, this project demonstrates HTTP sess
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cpanel-login-audit.git
+git clone https://github.com/FeX2X/cpanel-login-audit.git
 
 cd cpanel-login-audit
 

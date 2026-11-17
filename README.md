@@ -2,8 +2,6 @@
 <img width="1270" height="562" alt="image" src="https://github.com/user-attachments/assets/59fa397b-b179-4840-a300-22c8b5ab8323" />
 
 # -cpanel-login-audit
-⚡ Advanced Python-based cPanel security auditing tool | 🔐 Authentication analysis | 🚀 Multithreading | 🛡️ Authorized security testing.
-
 🕶️ A Python-powered cPanel security auditing project built for authorized authentication testing and security research.
 
 ⚡ Multithreaded architecture

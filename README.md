@@ -39,17 +39,6 @@ Built with Python and concurrent processing, this project demonstrates HTTP sess
 - 🎨 Colored terminal output
 - 📁 Result reporting
 
-## 🧰 Technologies
-
-| Technology | Purpose |
-|---|---|
-| 🐍 Python | Core programming |
-| 🌐 Requests | HTTP communication |
-| 🧵 Threading | Concurrent execution |
-| ⚡ ThreadPoolExecutor | Task management |
-| 🎨 Colorama | Terminal colors |
-| 🔗 urllib.parse | URL parsing |
-
 ## 📦 Installation
 
 ```bash
